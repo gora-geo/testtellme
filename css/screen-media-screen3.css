@@ -1,0 +1,511 @@
+
+@media screen and (max-height: 770px) {
+  #ramka{
+ 
+ top:0%;
+  margin-top: 0px;
+  
+  }
+}
+
+
+
+
+
+        @media screen and (max-width:1185px) {
+ 
+  #ramka{
+  width: 100%;
+    left: 0px;
+  margin-left: 0px;
+ 
+  
+  }
+.colonka{}
+
+        }
+
+
+        @media screen and (max-width:1030px) {
+.simple{
+    
+       font-size: 14px;
+         
+  
+   }
+
+   .textline{
+   
+    font-size: 14px;
+    
+ 
+   }
+         
+
+    }
+@media screen and (max-width:890px) {
+.simple{
+    
+       font-size: 13px;
+         
+  
+   }
+
+   .textline{
+   
+    font-size: 14px;
+    
+ 
+   }
+     .Basic{
+      
+       font-size: 30px;
+        
+}
+   
+.website{
+      
+       font-size: 20px;
+       
+   }  
+
+   .price1{
+     
+       font-size: 55px;
+       
+   }
+   .evro{
+      
+       font-size: 55px;
+        
+   }
+#triangle1{
+    
+    top: -38px;
+      
+
+   }
+   #triangle1 a {
+   
+    top: -68px;
+    
+
+   }
+    #triangle2{
+   
+    top: -38px;
+   
+
+   }
+
+    }
+
+@media screen and (max-width:800px) {
+.simple{
+    
+       font-size: 12px;
+         
+  
+   }
+
+     .Basic{
+      
+       font-size: 25px;
+        
+}
+   
+.website{
+      
+       font-size: 20px;
+       
+   }  
+
+   .price1{
+     
+       font-size: 50px;
+       
+   }
+   .evro{
+      
+       font-size: 50px;
+        
+   }
+#triangle1{
+    
+    top: -43px;
+      
+
+   }
+   #triangle1 a {
+   
+    top: -70px;
+    
+
+   }
+    #triangle2{
+   
+    top: -43px;
+   
+
+   }
+ }
+ @media screen and (max-width:750px) {
+.simple{
+    
+       font-size: 11px;
+         
+  
+   }
+ }
+ @media screen and (max-width:690px) {
+.simple{
+    
+       font-size: 10px;
+         
+  
+   }
+
+   .textline{
+   
+    font-size: 12px;
+    
+ 
+ }
+ #ramka{
+  
+  height: 650px;
+ 
+}
+
+.Basic{
+      
+       font-size: 25px;
+        
+}
+   
+.website{
+      
+       font-size: 15px;
+       
+   }  
+
+   .price1{
+     
+       font-size: 40px;
+       
+   }
+   .evro{
+      
+       font-size: 40px;
+        
+   }
+#triangle1{
+    
+    top: -53px;
+
+      
+
+   }
+   #triangle1 a {
+   
+    top: -70px;
+    font-size: 11px;
+    left: -70px;
+    top: -63px;
+
+   }
+    #triangle2{
+   
+    top: -53px;
+   
+
+   }
+
+
+}
+
+ @media screen and (max-width:600px) {
+.simple{
+    
+       font-size: 9px;
+         
+  
+   }
+
+   .textline{
+   
+    font-size: 12px;
+    
+ 
+ }
+ #ramka{
+  
+  height: 550px;
+ 
+}
+
+.Basic{
+      
+       font-size: 20px;
+        
+}
+   
+.website{
+      
+       font-size: 13px;
+       
+   }  
+
+   .price1{
+     
+       font-size: 35px;
+       
+   }
+   .evro{
+      
+       font-size: 35px;
+        
+   }
+#triangle1{
+    
+    top: -58px;
+
+      
+
+   }
+   #triangle1 a {
+   
+    top: -55px;
+    font-size: 11px;
+    left: -60px;
+   
+
+   }
+    #triangle2{
+   
+    top: -58px;
+   
+
+   }
+
+
+}
+@media screen and (max-width:550px) {
+.simple{
+    
+       font-size: 8px;
+         
+  
+   }
+
+   .textline{
+   
+    font-size: 11px;
+    
+ 
+ }
+ #ramka{
+  
+  height: 550px;
+ 
+}
+
+.Basic{
+      
+       font-size: 15px;
+        
+}
+   
+.website{
+      
+       font-size: 12px;
+       
+   }  
+
+   .price1{
+     
+       font-size: 30px;
+       
+   }
+   .evro{
+      
+       font-size: 30px;
+        
+   }
+#triangle1{
+    
+    top: -63px;
+
+      
+
+   }
+   #triangle1 a {
+   
+    top: -55px;
+    font-size: 11px;
+    left: -60px;
+   
+
+   }
+    #triangle2{
+   
+    top: -63px;
+   
+
+   }
+
+.button2 {
+  
+    height: 20px;
+    width: 110px;
+   
+    margin-left: -55px;
+    border-radius: 20px;
+
+
+
+
+    
+   
+    font-size: 11px;
+    padding-top:11px;
+     
+    }
+}
+@media screen and (max-width:470px) {
+.simple{
+    
+       font-size: 6px;
+         
+  
+   }
+
+   .textline{
+   
+    font-size: 8.5px;
+    
+ 
+ }
+ #ramka{
+  
+  height: 400px;
+ 
+}
+
+.Basic{
+      
+       font-size: 10px;
+        
+}
+   
+.website{
+      
+       font-size: 7px;
+       
+   }  
+
+   .price1{
+     
+       font-size: 25px;
+       
+   }
+   .evro{
+      
+       font-size: 25px;
+        
+   }
+#triangle1{
+    
+    top: -68px;
+
+      
+
+   }
+   #triangle1 a {
+   
+    top: -45px;
+    font-size: 10px;
+    left: -50px;
+   
+
+   }
+    #triangle2{
+   
+    top: -68px;
+   
+
+   }
+
+.button2 {
+  
+    height: 20px;
+    width: 90px;
+   
+    margin-left: -45px;
+    border-radius: 20px;
+    
+   
+    font-size: 9px;
+    padding-top:11px;
+     
+    }
+}
+@media screen and (max-width:350px) {
+  #ramka{
+  width: 350px;
+    
+ 
+  
+  }
+}
+
+  @media  (min-height: 410px) and (min-width:0px) and (max-width:470px){
+  #ramka{
+ 
+ top:50%;
+  margin-top: -205px;
+  
+  }
+}
+
+ @media  (min-height: 0px) and (max-height: 410px) and (min-width:0px) and (max-width:470px){
+  #ramka{
+ top:0%;
+  margin-top: 0px;
+  
+  }
+}  
+
+
+  @media  (min-height: 550px) and (min-width:470px) and (max-width:600px){
+  #ramka{
+ 
+ top:50%;
+  margin-top: -275px;
+  
+  }
+}
+
+ @media (min-height: 0px) and (max-height: 550px) and (min-width:470px) and (max-width:600px){
+  #ramka{
+ top:0%;
+  margin-top: 0px;
+  
+  }
+} 
+
+@media (min-height: 650px) and (min-width:600px) and (max-width:690px){
+  #ramka{
+ 
+ top:50%;
+  margin-top: -325px;
+  
+  }
+}
+ @media (max-height: 0px) and (max-height: 650px) and (min-width:600px) and (max-width:690px){
+  #ramka{
+ top:0%;
+  margin-top: 0px;
+  
+  }
+} 
